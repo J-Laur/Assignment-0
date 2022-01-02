@@ -4,7 +4,7 @@ function subtractFive(num) {
   let subNum = 5;
   let result = num - subNum;
 
-  console.log(result)
+  console.log(result);
 }
 
 subtractFive(8);
